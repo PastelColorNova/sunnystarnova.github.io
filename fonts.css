@@ -1,4 +1,10 @@
+@font-face { font-family: 'Gothic';
+  src: url('/EnglishTowne.woff') format('woff');   
+}
 
+@font-face { font-family: 'Viaoda';
+  src: url('/ViaodaLibre-Regular.woff') format('woff');   
+}
 
 #header{background-color: rgb(255, 177, 88);
   padding: 4px;
@@ -17,9 +23,12 @@ padding: 0;
   h1 {
     font-size: 40px;
     color: blue;
-    
+    font-family:'Gothic';
   }
   p { font-size: 20px;
     color: rgb(0, 0, 0);
     text-align: center;
+    font-family:'Viaoda' ;
+   
+    font-weight: bold;
   }

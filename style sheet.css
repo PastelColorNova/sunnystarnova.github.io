@@ -1,1 +1,5 @@
-@font-face { font-family: Gothic; src: url('English Towne.ttf'); }
+@font-face { font-family: 'Gothic', sans-serif; 
+            src: url(sansation_light.woff) format('ttf');
+
+        
+        }
