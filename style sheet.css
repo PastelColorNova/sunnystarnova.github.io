@@ -1,5 +1,3 @@
 @font-face { font-family: 'Gothic', sans-serif; 
-            src: url(sansation_light.woff) format('ttf');
-
-        
+            src: url('/EnglishTowne.ttf') format('ttf');   
         }
