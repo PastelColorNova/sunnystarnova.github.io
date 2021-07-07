@@ -32,3 +32,51 @@ padding: 0;
    
     font-weight: bold;
   }
+
+  .soundcloud {
+    font: bold 20px Arial;
+    text-decoration: none;
+    background-color: #ffda34;
+    color: #333333;
+    padding: 15px 16px 15px 16px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+  }
+
+
+  .instagram {
+    font: bold 20px Arial;
+    text-decoration: none;
+    background-color: #ff3434;
+    color: #f7ff89;
+    padding: 15px 16px 15px 16px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+  }
+
+  .twitter {
+    font: bold 20px Arial;
+    text-decoration: none;
+    background-color: #5934ff;
+    color: #ffffff;
+    padding: 15px 16px 15px 16px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+  }
+
+  .center {
+    text-align: center;
+    border: 3px solid rgb(255, 198, 12);
+    box-shadow:
+    0 0 60px 30px #fff,  /* inner white */
+    0 0 100px 60px rgb(251, 102, 102), /* middle magenta */
+    0 0 140px 20px rgb(255, 203, 229); /* outer cyan */
+    position:relative;
+    z-index:-1;
+  }
