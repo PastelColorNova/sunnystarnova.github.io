@@ -6,10 +6,10 @@
   src: url('/ViaodaLibre-Regular.woff') format('woff');   
 }
 
-#header{background-color: rgb(255, 177, 88);
+#header{background-color: rgb(0, 0, 0);
   padding: 4px;
   text-align: center;
-  background: #ffd562;
+  background: #9c0707;
   color: rgb(0, 0, 0);
   font-size: 20px;}
 
@@ -17,7 +17,7 @@ body {
   margin: 0;
 padding: 0;
   text-align: center;
-    background-color: rgb(250, 255, 184);
+    background-color: rgb(0, 0, 0);
 
   }
   h1 {
@@ -26,7 +26,7 @@ padding: 0;
     font-family:'Gothic';
   }
   p { font-size: 20px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
     font-family:'Viaoda' ;
    
@@ -36,7 +36,7 @@ padding: 0;
   .soundcloud {
     font: bold 20px Arial;
     text-decoration: none;
-    background-color: #ffda34;
+    background-color: #ffffff;
     color: #333333;
     padding: 15px 16px 15px 16px;
     border-top: 1px solid #CCCCCC;
@@ -49,10 +49,10 @@ padding: 0;
   .instagram {
     font: bold 20px Arial;
     text-decoration: none;
-    background-color: #ff3434;
-    color: #f7ff89;
+    background-color: #000000;
+    color: #ffffff;
     padding: 15px 16px 15px 16px;
-    border-top: 1px solid #CCCCCC;
+    border-top: 1px solid #000000;
     border-right: 1px solid #333333;
     border-bottom: 1px solid #333333;
     border-left: 1px solid #CCCCCC;
@@ -61,8 +61,8 @@ padding: 0;
   .twitter {
     font: bold 20px Arial;
     text-decoration: none;
-    background-color: #5934ff;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #ff0000;
     padding: 15px 16px 15px 16px;
     border-top: 1px solid #CCCCCC;
     border-right: 1px solid #333333;
@@ -75,7 +75,7 @@ padding: 0;
     border: 3px solid rgb(255, 198, 12);
     box-shadow:
     0 0 60px 30px #fff,  /* inner white */
-    0 0 100px 60px rgb(251, 102, 102), /* middle magenta */
+    0 0 100px 60px rgb(255, 255, 255), /* middle magenta */
     0 0 140px 20px rgb(255, 203, 229); /* outer cyan */
     position:relative;
     z-index:-1;
