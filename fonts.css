@@ -22,11 +22,11 @@ padding: 0;
   }
   h1 {
     font-size: 40px;
-    color: blue;
+    color: rgb(255, 255, 255);
     font-family:'Gothic';
   }
   p { font-size: 20px;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
     text-align: center;
     font-family:'Gothic' ;
    
@@ -36,7 +36,7 @@ padding: 0;
   .soundcloud {
     font: bold 20px Arial;
     text-decoration: none;
-    background-color: #ffffff;
+    background-color: #ffbd42;
     color: #333333;
     padding: 15px 16px 15px 16px;
     border-top: 1px solid #CCCCCC;
@@ -49,8 +49,8 @@ padding: 0;
   .instagram {
     font: bold 20px Arial;
     text-decoration: none;
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #d62b2b;
+    color: #fff171;
     padding: 15px 16px 15px 16px;
     border-top: 1px solid #000000;
     border-right: 1px solid #333333;
@@ -61,8 +61,8 @@ padding: 0;
   .twitter {
     font: bold 20px Arial;
     text-decoration: none;
-    background-color: #ffffff;
-    color: #ff0000;
+    background-color: #9ac9ff;
+    color: #000000;
     padding: 15px 16px 15px 16px;
     border-top: 1px solid #CCCCCC;
     border-right: 1px solid #333333;
@@ -73,7 +73,18 @@ padding: 0;
     font: 28px Gothic;
     text-decoration: none;
     background-color: #71ff94;
-    color: #ff0000;
+    color: #000000;
+    padding: 15px 16px 15px 16px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+  }
+  .appleMusic {
+    font: 28px Gothic;
+    text-decoration: none;
+    background-color: #ffaded;
+    color: #000000;
     padding: 15px 16px 15px 16px;
     border-top: 1px solid #CCCCCC;
     border-right: 1px solid #333333;
@@ -86,7 +97,7 @@ padding: 0;
     border: 3px solid rgb(255, 198, 12);
     box-shadow:
     0 0 60px 30px #fff,  /* inner white */
-    0 0 100px 60px rgb(255, 255, 255), /* middle magenta */
+    0 0 100px 60px rgb(245, 255, 192), /* middle magenta */
     0 0 140px 20px rgb(255, 203, 229); /* outer cyan */
     position:relative;
     z-index:-1;
